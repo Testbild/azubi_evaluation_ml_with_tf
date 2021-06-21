@@ -1,5 +1,5 @@
 the title of the project. It will be automatically copied and used for the online visualization
-## title: `Domaenenspezifische Problemloesekompetenz von Industriekaufleuten`
+## title: `Automated Essay Scoring`
 short description, not more than 200 characters 
 ## description: `Automated scoring of social study evaluation`
 name and surnames of all the students who participated
