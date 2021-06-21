@@ -1,4 +1,4 @@
-# Machine Learning with Tensorflow azubi evaluation project submission
+# Machine Learning with Tensorflow Automated Essay Scoring submission
 
 The project has been challenging and it was an interesting way to dive into NLP.
 
